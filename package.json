@@ -1,7 +1,7 @@
 {
   "name": "@artur-mamedbekov/networkds-test",
-  "version": "1.1.0",
-  "main": "index.js",
+  "version": "1.1.1",
+  "main": "./networks/index.js",
   "scripts": {},
   "author": "",
   "license": "ISC",
