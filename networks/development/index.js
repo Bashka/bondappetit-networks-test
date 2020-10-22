@@ -1,13 +1,13 @@
 module.exports = {
   accounts: {
-    ...require("./accounts.json"),
+    ...require("./accounts"),
   },
   assets: {
-    ...require("./assets.json"),
-    ...require("./gen/assets.json"),
+    ...require("./assets"),
+    ...require("./gen/assets"),
   },
   contracts: {
-    ...require("./contracts.json"),
-    ...require("./gen/contracts.json"),
+    ...require("./contracts"),
+    ...require("./gen/contracts"),
   },
 };

@@ -1,4 +1,4 @@
-{
+module.exports = {
     "GovernorAlpha": {
         "address": "0x5088416Bd301846CBEAb5453eFddb0d09fD04f21",
         "name": "GovernorAlpha",
