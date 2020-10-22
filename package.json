@@ -1,10 +1,8 @@
 {
   "name": "@artur-mamedbekov/networkds-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "repository": {
@@ -15,5 +13,6 @@
     "url": "https://github.com/Bashka/bondappetit-networks-test/issues"
   },
   "homepage": "https://github.com/Bashka/bondappetit-networks-test#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {}
 }
