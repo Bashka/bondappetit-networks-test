@@ -1,6 +1,6 @@
 {
   "name": "@artur-mamedbekov/networkds-test",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "main": "./networks/index.js",
   "scripts": {},
   "author": "",
