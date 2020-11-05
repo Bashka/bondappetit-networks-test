@@ -11,6 +11,7 @@ interface Account extends Named, Wallet {}
 interface Asset extends Named, Wallet {
   symbol: string;
   decimals: number;
+  investing: boolean;
 }
 
 interface Contract extends Named, Wallet {
